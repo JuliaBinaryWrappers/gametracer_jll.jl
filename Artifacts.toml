@@ -1,0 +1,160 @@
+[[gametracer]]
+arch = "aarch64"
+git-tree-sha1 = "461db3c7e70330ba3e768a9ba83b6cd714e747c1"
+os = "macos"
+
+    [[gametracer.download]]
+    sha256 = "9460ee9a27609a3ab90a93222f93cd92aed1fd7d129ba67056cc3ffc4e3c73fe"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.aarch64-apple-darwin.tar.gz"
+[[gametracer]]
+arch = "aarch64"
+git-tree-sha1 = "38b32d0f5bb24b9c8367dcd61805ad983ae38ade"
+libc = "glibc"
+os = "linux"
+
+    [[gametracer.download]]
+    sha256 = "00ad6fad6ac5b84559c6cc4a06b031c7a937db7aae006e26c99bffccf99cc1c5"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.aarch64-linux-gnu.tar.gz"
+[[gametracer]]
+arch = "aarch64"
+git-tree-sha1 = "40227844b452420fd66bb3094e8c8676500679c5"
+libc = "musl"
+os = "linux"
+
+    [[gametracer.download]]
+    sha256 = "b8d90d2b981b875cbd086fb5562748b2bf1f71da528eaff65fff697fe4cf086a"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.aarch64-linux-musl.tar.gz"
+[[gametracer]]
+arch = "aarch64"
+git-tree-sha1 = "9ab7686848618d5bfe31c4e8ff50af282b2af45d"
+os = "freebsd"
+
+    [[gametracer.download]]
+    sha256 = "4e49657f8511e9b459bc9031b527c39d2a74a9f4aca5235cb91227b18d8dc383"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.aarch64-unknown-freebsd.tar.gz"
+[[gametracer]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ff30c49a30bcbc54ed3c408045b012a7919d620d"
+libc = "glibc"
+os = "linux"
+
+    [[gametracer.download]]
+    sha256 = "9779f5392685d982d3e8806cb4325ed92da6e114385a2f116fbd13154556417d"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.armv6l-linux-gnueabihf.tar.gz"
+[[gametracer]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0bbe533f3c4b4d903e2dface22f0ad53d6630276"
+libc = "musl"
+os = "linux"
+
+    [[gametracer.download]]
+    sha256 = "aa17c050f98087d37d75082eafea36f7c5a1cb37717e653c9619fd08019a2f85"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.armv6l-linux-musleabihf.tar.gz"
+[[gametracer]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f7787943a24e1567cb508c97981fb086a12ee9a5"
+libc = "glibc"
+os = "linux"
+
+    [[gametracer.download]]
+    sha256 = "f2edbfbd88962b6584bff2719b595d004495ef6121db9c2df46a177dce786da9"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.armv7l-linux-gnueabihf.tar.gz"
+[[gametracer]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "db61578d3b17703b881544b66addb736de297cfc"
+libc = "musl"
+os = "linux"
+
+    [[gametracer.download]]
+    sha256 = "c95852e8e491ad47eb3c7502d33376acb15e127768416a080ea848ca7de15f47"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.armv7l-linux-musleabihf.tar.gz"
+[[gametracer]]
+arch = "i686"
+git-tree-sha1 = "eef346197ed9e0a668a153cd5de1db97c47662dd"
+libc = "glibc"
+os = "linux"
+
+    [[gametracer.download]]
+    sha256 = "082e95a0fc097ffb3f53ba38fb7b8aaf53b156ed347b054c663b70ad11126263"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.i686-linux-gnu.tar.gz"
+[[gametracer]]
+arch = "i686"
+git-tree-sha1 = "b6e22f2fbf0def73b7548584eb9bebcf7c10655d"
+libc = "musl"
+os = "linux"
+
+    [[gametracer.download]]
+    sha256 = "f9dfb87a2b5c66225d7841990da2d7112fb9bacd5b029e229946339d8296992e"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.i686-linux-musl.tar.gz"
+[[gametracer]]
+arch = "i686"
+git-tree-sha1 = "8d570facd69912f94c2682753df99d5c64dd5cc9"
+os = "windows"
+
+    [[gametracer.download]]
+    sha256 = "3f477d3f81588033a102d0ece382bf21d5c33e780f43b8e77a125db9f46f40d1"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.i686-w64-mingw32.tar.gz"
+[[gametracer]]
+arch = "powerpc64le"
+git-tree-sha1 = "dd8e57df050d6ef9c64bdfbb49927a731a21ec22"
+libc = "glibc"
+os = "linux"
+
+    [[gametracer.download]]
+    sha256 = "0579dc45462ebb605219078f086969dd6ce0c7e2c3c20a51b4c27d8ef43bb60f"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.powerpc64le-linux-gnu.tar.gz"
+[[gametracer]]
+arch = "riscv64"
+git-tree-sha1 = "157679c1db74a47fced52c54d58e37f9cd0618ef"
+libc = "glibc"
+os = "linux"
+
+    [[gametracer.download]]
+    sha256 = "437215a47e5ba3d8a6f9f877264f9c0a923f11c9ea24129391fddd9c76273019"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.riscv64-linux-gnu.tar.gz"
+[[gametracer]]
+arch = "x86_64"
+git-tree-sha1 = "857b8d88a2d74850af04324a082c36ded6142e74"
+os = "macos"
+
+    [[gametracer.download]]
+    sha256 = "4d84b3f6a5ab6501eb91e679b4885115254ba84c67a69027edf161aefdf55fad"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.x86_64-apple-darwin.tar.gz"
+[[gametracer]]
+arch = "x86_64"
+git-tree-sha1 = "c5a5af2a08363484cb096045edf020d36f21a032"
+libc = "glibc"
+os = "linux"
+
+    [[gametracer.download]]
+    sha256 = "690b25bbb92fdb2d8950f592a3a865883e246777f6b495e7136c0e0f456a1ec4"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.x86_64-linux-gnu.tar.gz"
+[[gametracer]]
+arch = "x86_64"
+git-tree-sha1 = "65c61eb651e46bd75ee585f46764a8a01cb3005c"
+libc = "musl"
+os = "linux"
+
+    [[gametracer.download]]
+    sha256 = "3f9e666dda9a225011e7ee631a79d739d36dee5a6cbb39ccff39577545681e19"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.x86_64-linux-musl.tar.gz"
+[[gametracer]]
+arch = "x86_64"
+git-tree-sha1 = "10a7797be6eea945b39645dd3cfaaed169cd2376"
+os = "freebsd"
+
+    [[gametracer.download]]
+    sha256 = "d62ab31e7dbfe7415a4d97b5ed2ceaaa25f36f32222904985de31c7ef15ec41f"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.x86_64-unknown-freebsd.tar.gz"
+[[gametracer]]
+arch = "x86_64"
+git-tree-sha1 = "59560709b47d1e006889adfe1af193e2c1c01353"
+os = "windows"
+
+    [[gametracer.download]]
+    sha256 = "70f781790c157a084a081a9245170f873e9890b4d42759d4cd1b897ac59a9e77"
+    url = "https://github.com/JuliaBinaryWrappers/gametracer_jll.jl/releases/download/gametracer-v0.2.1+0/gametracer.v0.2.1.x86_64-w64-mingw32.tar.gz"
